@@ -1,0 +1,23 @@
+body {
+  background-color: #f2f2f2;
+  font-family: monospace;
+  line-height: 1;
+  width: 520px;
+  margin: auto;
+}
+
+/* {
+    margin: auto;
+  }
+  
+  */
+
+form {
+  border-radius: 2rem;
+}
+
+#submit {
+  margin: auto;
+  display: block;
+  background-color: white;
+}
